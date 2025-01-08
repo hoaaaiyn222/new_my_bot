@@ -1,0 +1,11 @@
+python-telegram-bot==21.10
+yt-dlp
+pandas
+numpy
+flask
+requests
+aiohttp
+beautifulsoup4
+urllib3
+gunicorn
+ffmpeg-python
